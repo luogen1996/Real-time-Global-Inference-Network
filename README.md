@@ -72,13 +72,13 @@ python code/eval_script.py ./tmp/predictions/$exp_name/val_preds_$exp_name.pkl .
 
 we  tried  to repeat the results of ZSGNet. But unfortunately, the results are a bit  different from the paper, especially in referit, where the results are slightly better in our experiences.
 
-| Model                             |  Dataset  |     val     |    test     | link |
-| --------------------------------- | :-------: | :---------: | :---------: | :--: |
-| ZSGNet                            | flickr30K |    63.15    |    63.43    |      |
-| GIN(10 epochs)                    | flickr30K |    64.06    |    64.77    |      |
-| GIN(10 epochs+ resized_10_epochs) | flickr30K |    66.54    |    68.14    |      |
-| ZSGNet                            |  referit  |    65.99    |    62.73    |      |
-| GIN(10 epochs)                    |  referit  |    68.40    |    65.15    |      |
-| GIN(10 epochs+ resized_10_epochs) |  referit  | coming soon | coming soon |      |
+| Model                             |  Dataset  |     val     |    test     |                             link                             |
+| --------------------------------- | :-------: | :---------: | :---------: | :----------------------------------------------------------: |
+| ZSGNet                            | flickr30K |    63.15    |    63.43    | [One Drive](https://1drv.ms/u/s!AmrFUyZ_lDVGf68FpDXLIlzvlzY?e=jiQ8CH) |
+| GIN(10 epochs)                    | flickr30K |    64.06    |    64.77    | [One Drive](https://1drv.ms/u/s!AmrFUyZ_lDVGgQL6t2Cp4UvmzPiu?e=PIltdE) |
+| GIN(10 epochs+ resized_10_epochs) | flickr30K |    66.54    |    68.14    |                                                              |
+| ZSGNet                            |  referit  |    65.99    |    62.73    | [One Drive](https://1drv.ms/u/s!AmrFUyZ_lDVGgQCAeaYj4-Kt_OXX?e=V2bJJt) |
+| GIN(10 epochs)                    |  referit  |    68.40    |    65.15    | [One Drive](https://1drv.ms/u/s!AmrFUyZ_lDVGgQErMsd5oJx-S9x-?e=dnjqMK) |
+| GIN(10 epochs+ resized_10_epochs) |  referit  | coming soon | coming soon |                                                              |
 
 
