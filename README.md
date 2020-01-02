@@ -80,5 +80,15 @@ we  tried  to repeat the results of ZSGNet. But unfortunately, the results are a
 | ZSGNet                            |  referit  |    65.99    |    62.73    | [One Drive](https://1drv.ms/u/s!AmrFUyZ_lDVGgQCAeaYj4-Kt_OXX?e=V2bJJt) |
 | GIN(10 epochs)                    |  referit  |    68.40    |    65.15    | [One Drive](https://1drv.ms/u/s!AmrFUyZ_lDVGgQErMsd5oJx-S9x-?e=dnjqMK) |
 | GIN(10 epochs+ resized_10_epochs) |  referit  | coming soon | coming soon |                                                              |
+# Citation
 
+If you find the code useful, please cite us:
+
+```
+@article{zhou2019a,
+title={A Real-time Global Inference Network for One-stage Referring Expression Comprehension.},
+author={Zhou, Yiyi and Ji, Rongrong and Luo, Gen and Sun, Xiaoshuai and Su, Jinsong and Ding, Xinghao and Lin, Chiawen and Tian, Qi},
+journal={arXiv: Computer Vision and Pattern Recognition},
+year={2019}}
+```
 
